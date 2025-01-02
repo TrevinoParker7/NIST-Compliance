@@ -3,7 +3,7 @@
 
 
 # Introduction
-In this project, I remediate my mini honeynet I created in the previous project [(Building a SOC + Honenet)](https://github.com/EricMcclellan1/Cloud-Soc#building-a-soc--honeynet-in-azure-live-traffic) to be up to par and compliant with NIST SP 800 53 R5 regulatory compliance standards. I resolved several non-compliant controls within the security metrics in Microsoft Azure to harden the environment and decrease/nullify attacks as well as keeping the environment up to compliant standards.  The compliance metrics we will mitigate and audit are:
+In this project, I remediate my mini honeynet I created in the previous project [(Building a SOC + Honenet)](https://github.com/trevinoparker7/Cloud-Soc#building-a-soc--honeynet-in-azure-live-traffic) to be up to par and compliant with NIST SP 800 53 R5 regulatory compliance standards. I resolved several non-compliant controls within the security metrics in Microsoft Azure to harden the environment and decrease/nullify attacks as well as keeping the environment up to compliant standards.  The compliance metrics we will mitigate and audit are:
 
 - AC: Access Control
 - AU: Audit and Accountability 
