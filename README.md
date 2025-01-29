@@ -91,7 +91,7 @@ As shown below majority of all compliance policies were mitigated
 
 # Conclusion
 
-In this project, NIST SP 800 53 R5 policy changes were made within the Azure environment to become more compliant with regulations. Utilizing the tools available we were able to create firewalls for our virtual machines, create backups for virtual machines, create subnets with our NSGS, enable Microsoft Defender for several resources and more. It is noteworthy that the number of security events and incidents were drastically reduced after the security controls were applied, demonstrating their effectiveness [as shown in previous Azure SOC + Honeynet lab](https://github.com/EricMcclellan1/Cloud-Soc#building-a-soc--honeynet-in-azure-live-traffic)
+In this project, NIST SP 800 53 R5 policy changes were made within the Azure environment to become more compliant with regulations. Utilizing the tools available we were able to create firewalls for our virtual machines, create backups for virtual machines, create subnets with our NSGS, enable Microsoft Defender for several resources and more. It is noteworthy that the number of security events and incidents were drastically reduced after the security controls were applied, demonstrating their effectiveness [as shown in previous Azure SOC + Honeynet lab](https://github.com/TrevinoParker7/Cloud-Soc)
 
 It is worth noting that remediating the environment to be more compliant with NIST SP 800 53 5 also increased our compliance with the Microsoft Cloud Security Benchmark (Azure default), increasing our overall score to a whopping <b>88%</b> Secure Score!
 
